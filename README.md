@@ -1,6 +1,13 @@
 # Help
 Help! 25 Key Keyboard
 
+<div style="width: 60%; height: 60%">
+  
+  ![](Images/Help!Silk.png)
+  
+</div>
+
+
 ### !! BE WARNED, THIS IS UNTESTED !!
 
 The Help! is a 9x3 ortholinear pro micro based keyboard. It has support for an SSD1306 OLED display that sits above the pro micro à la corne.
@@ -10,7 +17,9 @@ The Help! is a 9x3 ortholinear pro micro based keyboard. It has support for an S
 | Firmare | :x: |
 | Case | :x: |
 
-![Help! Image](/Images/Help!Silk.png)
 
 ### PCB Render:
-![Help! Image](/Images/HelpFront.png)
+![Help! PCB](/Images/HelpFront.png)
+
+### KLE:
+![Help! KLE](/Images/HelpKLE.png)
