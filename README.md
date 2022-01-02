@@ -15,7 +15,7 @@ The Help! is a 9x3 ortholinear pro micro based keyboard. It has support for an S
 | TODO | status |
 | ----------- | ----------- |
 | Firmare | :x: |
-| Case | :x: |
+| Case | :heavy_check_mark: |
 
 
 ### PCB Render:
